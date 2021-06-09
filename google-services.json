@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384923845683",
+    "firebase_url": "https://driverdrowsinessdetectio-69b1a.firebaseio.com",
+    "project_id": "driverdrowsinessdetectio-69b1a",
+    "storage_bucket": "driverdrowsinessdetectio-69b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384923845683:android:091dd3dabaaf8334ae4f46",
+        "android_client_info": {
+          "package_name": "com.project.driverdrowsinessdetectionsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384923845683-0tpsclp53it2unji5fg4keqq7dtjkaro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.driverdrowsinessdetectionsystem",
+            "certificate_hash": "420622866476a30d2c7f06b8728ba484c9505806"
+          }
+        },
+        {
+          "client_id": "384923845683-hd7n9nbmqdvvijut4r6o1j3p3120fdao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK8KK7zW7F5gxURZCX_Z25t0P5zcB_et0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384923845683-hd7n9nbmqdvvijut4r6o1j3p3120fdao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
